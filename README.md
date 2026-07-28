@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Nana ! 👋
 
-<!--
-**nanasichero/nanasichero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor apaixonado por tecnologia, com sólida experiência em múltiplas linguagens e paradigmas de programação — desde o desenvolvimento web moderno até a programação de sistemas de baixo nível.
 
-Here are some ideas to get you started:
+- 💻 Atualmente criando soluções eficientes e escaláveis.
+- 🎯 Focado em aprender arquiteturas avançadas, otimização de código e inteligência artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens de Programação
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
